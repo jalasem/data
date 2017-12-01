@@ -15,6 +15,7 @@
 			"name": "Fishwall",
 			"@type": "Painting"
 		},
+		{},
 		{
 			"image": "http://data.mavo.io/portfolio/images/web-coffe-marilyn.jpg",
 			"name": "Web Coffe Marilyn",
